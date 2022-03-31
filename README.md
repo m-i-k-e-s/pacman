@@ -1,2 +1,2 @@
-# pacman
-pacman exercise mitxpro
+# Pacman
+Pacman Exercise from MIT xPro
